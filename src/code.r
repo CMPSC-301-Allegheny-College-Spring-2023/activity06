@@ -45,7 +45,7 @@ cat("\014") # clear the console
 
 
 ###########
-# Q 4. Pick a new data set from using `data()`. Create a linear model from this dataset. Give code and explain all steps of your work.
+# Q 5. Pick a new data set from using `data()`. Create a linear model from this dataset. Give code and explain all steps of your work.
 
 
 # (Did you remember to write your name above?)
