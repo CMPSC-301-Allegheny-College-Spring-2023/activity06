@@ -38,6 +38,11 @@ cat("\014") # clear the console
 
 
 
+###########
+# Q 4. Discuss the significance of your model. What indicates to you whether the model is significant?
+
+# TODO: 
+
 
 
 # (Did you remember to write your name above?)

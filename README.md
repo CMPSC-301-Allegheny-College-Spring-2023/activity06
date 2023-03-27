@@ -1,8 +1,8 @@
 # Data Analysis  CS301
 
-## Assigned: 23 March 2023
+## Assigned: 28 March 2023
 
-## Due: 23 March 2023
+## Due: 28 March 2023
 
 ## Project Goals
 
@@ -10,7 +10,7 @@
 * To gain experience working with linear model
  (regression) tests and becoming familiar with
  R code to run statistical tests.
-* To draw conclusions from anova.
+* To draw conclusions from regression analysis.
 
 ## Instructions
 
